@@ -9,7 +9,7 @@ This is where I will put what happens during my journey into mathematics
 
 1. Group Theory
    
-   A. Introduction to group theory
+   _A. Introduction to group theory_
    
      i. What is a group? Some standard groups like $(S(F), \circ)$, $(\mathbb{Z_n}, +_n)$, etc. Link between groups and fields.
    
@@ -17,7 +17,7 @@ This is where I will put what happens during my journey into mathematics
 
      iii. What is a subgroup? What are cyclic groups and subgroups? How to test if something is a subgroup of a group? How to find subgroups.
 
-   B. Permutations in group theory
+   _B. Permutations in group theory_
 
      i. How to write cycle forms? How to find the inverse of a cycle form? How to find the parity and order of a permutation?
 
@@ -27,9 +27,9 @@ This is where I will put what happens during my journey into mathematics
 
      iv. What is an isomorphism? What are some standard isomorphic groups? What is a homomorphism? Finding the image and kernel of a homomorphism.
 
-   C. Lagrange's Theorem and finding all subgroups of groups up to order 8
+   _C. Lagrange's Theorem and finding all subgroups of groups up to order 8_
 
-   D. Other types of subgroups
+   _D. Other types of subgroups_
 
      i. What are left and right cosets? What are normal subgroups? Identifying normal subgroups.
 
@@ -39,7 +39,7 @@ This is where I will put what happens during my journey into mathematics
 
      iv. How do you find conjugates in a 3D solid?
 
-   E. Group actions
+   _E. Group actions_
 
      i. What is a group action? How to test that something is a group action?
 
@@ -51,19 +51,19 @@ This is where I will put what happens during my journey into mathematics
 
 2. Linear Algebra
 
-   A. Introduction to matrices
+   _A. Introduction to matrices_
 
      i. What is a matrix. Matrix properties, and arithmetic. Is the set of $2 \times 2$ matrices a field? Symmetric matrices, elementary matrices, diagonal matrices and transposition of matrices.
 
      ii. Finding the inverse of a matrix. Finding the determinant of a matrix including expansion of large matrices using cofactors.
 
-   B. Finding solutions to systems of linear equations
+   _B. Finding solutions to systems of linear equations_
 
      i. Using row-reduction, determining number of solutions, consistency of the system and so on.
 
      ii. Using Gauss-Jordan elimination.
 
-   C. Introduction to vector spaces
+   _C. Introduction to vector spaces_
 
      i. What is a vector space? What are the properties of a vector space and the relationship between a vector space and a group?
 
@@ -71,7 +71,7 @@ This is where I will put what happens during my journey into mathematics
 
      iii. Examples of vector spaces like $\mathbb{R^n}$, $P_n$, etc.
 
-   D. More on vector spaces
+   _D. More on vector spaces_
 
      i. What is the dimension of a vector space?
 
@@ -79,7 +79,7 @@ This is where I will put what happens during my journey into mathematics
 
      iii. How to find the orthogonal and orthonormal basis of a space? Gram-Schmidt orthogonalisation.
 
-   E. Linear transformations
+   _E. Linear transformations_
 
      i. What is a linear transformation? Examples of linear transformations.
 
@@ -89,7 +89,7 @@ This is where I will put what happens during my journey into mathematics
 
      iv. How to determine the number of solutions from the number of equations and unknowns of a linear transformation thanks to the image and kernel?
 
-   F. Eigenvectors and eigenvalues
+   _F. Eigenvectors and eigenvalues_
 
      i. What is an eigenvector and what is an eigenvalue? How to find the characteristic equation and the eigenvector equations.
 
@@ -101,58 +101,58 @@ This is where I will put what happens during my journey into mathematics
 
 3. Analysis
 
-  A. Inequalities
+   _A. Inequalities_
   
-    i. The triangle inequality. Several properties of real numbers. What is an irrational number? What is a rational number?
+      i. The triangle inequality. Several properties of real numbers. What is an irrational number? What is a rational number?
 
-    ii. Rules for manipulating inequalities.
+      ii. Rules for manipulating inequalities.
 
-    iii. Solving inequalities vs. proving inequalities.
+      iii. Solving inequalities vs. proving inequalities.
 
-  B. Sequences, series and limits
+   _B. Sequences, series and limits_
+   
+      i. Convergence vs. divergence. Null sequences. Finding the limits of sequences and series.
 
-    i. Convergence vs. divergence. Null sequences. Finding the limits of sequences and series.
+      ii. Looking at which test to use given certain conditions for both sequences and series.
 
-    ii. Looking at which test to use given certain conditions for both sequences and series.
+      iii. The Combination Rules for sequences and series.
 
-    iii. The Combination Rules for sequences and series.
+   _C. Continuity in functions and more on limits_
 
-  C. Continuity in functions and more on limits
+      i. How to determine if a function is continuous? Classical definition of continuity.
 
-    i. How to determine if a function is continuous? Classical definition of continuity.
+      ii. Looking at the exponential and logarithmic functions. 
 
-    ii. Looking at the exponential and logarithmic functions. 
+      iii. Looking at properties of continuous functions like the Intermediate Value Theorem. 
 
-    iii. Looking at properties of continuous functions like the Intermediate Value Theorem. 
+   _D. Limits of functions_
 
-  D. Limits of functions
+      i. What is a punctured neighbourhood? Showing whether a function has a limit or not.
 
-    i. What is a punctured neighbourhood? Showing whether a function has a limit or not.
+      ii. Combination Rules for functions and other rules to find limits. One-sided limits.
 
-    ii. Combination Rules for functions and other rules to find limits. One-sided limits.
+      iii. Asymptotic behaviour of functions.
 
-    iii. Asymptotic behaviour of functions.
+   _E. Differentiation and integration of functions_
 
- E. Differentiation and integration of functions
+      i. How to determine if a function is differentiable? How to determine if a function is integrable?
 
-   i. How to determine if a function is differentiable? How to determine if a function is integrable?
+      ii. How to determine the upper and lower Riemann sums of a function?
 
-   ii. How to determine the upper and lower Riemann sums of a function?
+      iii. Several functions: Blancmange, sawtooth and Riemann functions.
 
-   iii. Several functions: Blancmange, sawtooth and Riemann functions.
+      iv. Rolle's Theorem and l'Hôpital's Rule.
 
-   iv. Rolle's Theorem and l'Hôpital's Rule.
+      v. The Mean Value Theorem, Increasing-Decreasing Theorem, the First and Second Derivative Tests.
 
-   v. The Mean Value Theorem, Increasing-Decreasing Theorem, the First and Second Derivative Tests.
+      vi. Combination Rules, Composition Rules, and so on.
 
-   vi. Combination Rules, Composition Rules, and so on.
+   _F. Power Series_
 
-F. Power Series
+      i. The generalised Binomial Theorem
 
-  i. The generalised Binomial Theorem
+      ii. Taylor series and other power series
 
-  ii. Taylor series and other power series
+      iii. The radius and interval of convergence of power series.
 
-  iii. The radius and interval of convergence of power series.
-
-  iv. Using power series for estimates of $\pi$ and others.
+      iv. Using power series for estimates of $\pi$ and others.
